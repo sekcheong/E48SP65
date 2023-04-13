@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33423.255
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Emu48", "Emu48.vcxproj", "{82724D1D-4564-4785-B67A-A3520160B289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Unicode|x86 = Debug Unicode|x86
+		Debug|x86 = Debug|x86
+		Release Unicode|x86 = Release Unicode|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82724D1D-4564-4785-B67A-A3520160B289}.Debug Unicode|x86.ActiveCfg = Debug Unicode|Win32
+		{82724D1D-4564-4785-B67A-A3520160B289}.Debug Unicode|x86.Build.0 = Debug Unicode|Win32
+		{82724D1D-4564-4785-B67A-A3520160B289}.Debug|x86.ActiveCfg = Debug|Win32
+		{82724D1D-4564-4785-B67A-A3520160B289}.Debug|x86.Build.0 = Debug|Win32
+		{82724D1D-4564-4785-B67A-A3520160B289}.Release Unicode|x86.ActiveCfg = Release Unicode|Win32
+		{82724D1D-4564-4785-B67A-A3520160B289}.Release Unicode|x86.Build.0 = Release Unicode|Win32
+		{82724D1D-4564-4785-B67A-A3520160B289}.Release|x86.ActiveCfg = Release|Win32
+		{82724D1D-4564-4785-B67A-A3520160B289}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB30E87C-37A1-4048-AE37-34CA18007203}
+	EndGlobalSection
+EndGlobal
